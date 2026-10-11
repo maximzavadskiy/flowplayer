@@ -10,8 +10,8 @@
 > |---|---|
 > | npm | [`@flowplayer/player`](https://www.npmjs.com/package/@flowplayer/player) — `npm install @flowplayer/player` |
 > | Docs | https://developer.wowza.com/docs/wowza-flowplayer/ |
-> | Website | https://flowplayer.com |
-> | Demos | https://flowplayer.com/resources/demos |
+> | Website | https://www.wowza.com/video/player |
+> | Demos | https://www.wowza.com/developer/flowplayer-demos |
 >
 > The legacy `flowplayer` npm package (7.2.7, 2018) is this player and is no longer maintained. It is **not** the same product as `@flowplayer/player`; there is no in-place upgrade path.
 
