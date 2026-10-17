@@ -1,7 +1,8 @@
 {
   "name": "flowplayer",
   "version": "7.2.7",
-  "description": "The HTML5 video player for the web",
+  "description": "Legacy Flowplayer 7 (deprecated, unmaintained). Use @flowplayer/player — Wowza Flowplayer",
+  "homepage": "https://developer.wowza.com/docs/wowza-flowplayer/",
   "main": "dist/flowplayer.js",
   "directories": {
     "test": "test"
